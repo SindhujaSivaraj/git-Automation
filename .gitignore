@@ -1,0 +1,10 @@
+/target/
+/.classpath
+/.gitignore
+/.project
+/.settings/
+/pom.xml
+/screens/
+/src/
+/test-output/
+/testng.xml

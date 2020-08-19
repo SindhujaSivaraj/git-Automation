@@ -1,0 +1,18 @@
+<suite name="Dbank suite">
+	<test name="Test for Dbank">
+		<groups>
+			<run>
+				<include name="test1">
+				</include>
+			</run>
+		</groups>
+		<classes>
+			<class name="org.Automation.DbankTestng">
+					
+			</class>
+			<class name="org.Automation.NewTest">
+
+			</class>
+		</classes>
+	</test>
+</suite>
